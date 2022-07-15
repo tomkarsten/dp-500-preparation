@@ -85,6 +85,7 @@
   * https://microsoftlearning.github.io/DP-500-Azure-Data-Analyst/Instructions/labs/13-use-tools-to-optimize-power-bi-performance.html
 * create and manage scalable Power BI dataflows
   * https://docs.microsoft.com/en-us/power-bi/transform-model/dataflows/dataflows-develop-solutions
+  * https://microsoftlearning.github.io/DP-500-Azure-Data-Analyst/Instructions/labs/05-create-a-dataflow.html
 * identify and manage privacy settings on data sources
   * https://docs.microsoft.com/en-us/power-bi/enterprise/desktop-privacy-levels
 * create queries, functions, and parameters by using the Power Query Advanced Editor
@@ -99,9 +100,11 @@
 * choose when to use DirectQuery for Power BI datasets
   * https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-directquery-about 
 * choose when to use external tools, including DAX Studio and Tabular Editor 2
+  * https://microsoftlearning.github.io/DP-500-Azure-Data-Analyst/Instructions/labs/13-use-tools-to-optimize-power-bi-performance.html
 * create calculation groups
   * https://docs.microsoft.com/en-us/analysis-services/tabular-models/calculation-groups?view=asallproducts-allversions#limitations
   * https://docs.microsoft.com/en-us/learn/modules/create-calculation-groups/
+  * https://microsoftlearning.github.io/DP-500-Azure-Data-Analyst/Instructions/labs/07-create-calculation-groups.html
 * write calculations that use DAX variables and functions, for example handling blanks or errors, creating virtual relationships, and working with iterators
   * https://docs.microsoft.com/en-us/dax/best-practices/dax-variables
   * https://docs.microsoft.com/en-us/dax/dax-function-reference
@@ -109,6 +112,8 @@
   * https://docs.microsoft.com/en-us/power-bi/enterprise/service-premium-large-models
 * design and build composite models, including aggregations
   * https://docs.microsoft.com/en-us/power-bi/guidance/composite-model-guidance
+  * https://microsoftlearning.github.io/DP-500-Azure-Data-Analyst/Instructions/labs/08-create-a-composite-model.html
+  * https://microsoftlearning.github.io/DP-500-Azure-Data-Analyst/Instructions/labs/12-improve-query-performance-with-aggregations.html
 * design and implement enterprise-scale row-level security and object-level security
   * https://docs.microsoft.com/en-us/power-bi/guidance/rls-guidance
 
