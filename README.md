@@ -57,6 +57,7 @@
 * deploy and manage datasets by using the XMLA endpoint
   * https://docs.microsoft.com/en-us/power-bi/enterprise/service-premium-connect-tools
 * create reusable assets, including Power BI templates, Power BI data source (.pbids) files, and shared datasets
+  * https://microsoftlearning.github.io/DP-500-Azure-Data-Analyst/Instructions/labs/16-create-reusable-power-bi-artifacts.html
   * https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-data-sources
 
 
@@ -81,6 +82,7 @@
   * https://docs.microsoft.com/en-us/power-bi/guidance/import-modeling-data-reduction
 * implement performance improvements in Power Query and data sources
   * https://docs.microsoft.com/en-us/power-bi/guidance/directquery-model-guidance
+  * https://microsoftlearning.github.io/DP-500-Azure-Data-Analyst/Instructions/labs/13-use-tools-to-optimize-power-bi-performance.html
 * create and manage scalable Power BI dataflows
   * https://docs.microsoft.com/en-us/power-bi/transform-model/dataflows/dataflows-develop-solutions
 * identify and manage privacy settings on data sources
