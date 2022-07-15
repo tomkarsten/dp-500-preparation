@@ -116,6 +116,7 @@
   * https://microsoftlearning.github.io/DP-500-Azure-Data-Analyst/Instructions/labs/12-improve-query-performance-with-aggregations.html
 * design and implement enterprise-scale row-level security and object-level security
   * https://docs.microsoft.com/en-us/power-bi/guidance/rls-guidance
+  * https://docs.microsoft.com/en-us/analysis-services/tabular-models/object-level-security?view=asallproducts-allversions
 
 ### Optimize enterprise-scale data models
 
