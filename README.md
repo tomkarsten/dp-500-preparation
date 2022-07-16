@@ -12,7 +12,8 @@
 ### Govern and administer a data analytics environment
 
 * manage Power BI assets by using Azure Purview
-  * https://docs.microsoft.com/en-us/azure/purview/register-scan-power-bi-tenant?tabs=Scenario1 
+  * https://docs.microsoft.com/en-us/learn/modules/manage-power-bi-artifacts-use-microsoft-purview/
+  * https://docs.microsoft.com/en-us/azure/purview/register-scan-power-bi-tenant?tabs=Scenario1
 * identify data sources in Azure by using Azure Purview
   * https://docs.microsoft.com/en-us/azure/purview/microsoft-purview-connector-overview
   * https://docs.microsoft.com/en-us/azure/purview/manage-data-sources
@@ -82,6 +83,7 @@
   * https://docs.microsoft.com/en-us/power-bi/guidance/import-modeling-data-reduction
 * implement performance improvements in Power Query and data sources
   * https://docs.microsoft.com/en-us/power-bi/guidance/directquery-model-guidance
+  * https://docs.microsoft.com/en-us/learn/modules/understand-scalability-power-bi/3-implement-data-modeling-best-practices
   * https://microsoftlearning.github.io/DP-500-Azure-Data-Analyst/Instructions/labs/13-use-tools-to-optimize-power-bi-performance.html
 * create and manage scalable Power BI dataflows
   * https://docs.microsoft.com/en-us/power-bi/transform-model/dataflows/dataflows-develop-solutions
