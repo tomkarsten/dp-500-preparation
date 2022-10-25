@@ -1,4 +1,4 @@
-#  Azure Enterprise Data Analyst Associate (DP-500) Exam - Preparation
+#  DP-500 Study Guide: Azure Enterprise Data Analyst Associate
 
 :wave: Given the lack of any courses or practice tests for the new [DP-500](https://docs.microsoft.com/en-us/learn/certifications/azure-enterprise-data-analyst-associate/), I've collected some **useful links** for each of the **skills measured** below: 
 
