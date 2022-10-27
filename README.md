@@ -14,8 +14,8 @@
 ### Govern and administer a data analytics environment
 
 * manage Power BI assets by using Azure Purview
-  * https://docs.microsoft.com/en-us/learn/modules/manage-power-bi-artifacts-use-microsoft-purview/
   * https://docs.microsoft.com/en-us/azure/purview/register-scan-power-bi-tenant?tabs=Scenario1
+  * https://docs.microsoft.com/en-us/learn/modules/manage-power-bi-artifacts-use-microsoft-purview/
 * identify data sources in Azure by using Azure Purview
   * https://docs.microsoft.com/en-us/azure/purview/microsoft-purview-connector-overview
   * https://docs.microsoft.com/en-us/azure/purview/manage-data-sources
@@ -24,6 +24,7 @@
 * recommend a monitoring and auditing solution for a data analytics environment, including Power BI REST API and PowerShell cmdlets
   * https://docs.microsoft.com/en-us/power-bi/admin/service-admin-auditing
   * https://docs.microsoft.com/en-us/power-bi/admin/service-admin-portal-audit-usage#create-audit-logs-for-internal-activity-auditing-and-compliance
+  * https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-usage-metrics
 
 
 ### Integrate an analytics platform into an existing IT infrastructure
