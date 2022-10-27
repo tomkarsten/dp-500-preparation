@@ -1,6 +1,8 @@
-#  DP-500 Study Guide: Azure Enterprise Data Analyst Associate
+#  DP-500 Study Guide: Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI
 
-:wave: Given the lack of any courses or practice tests for the new [DP-500](https://docs.microsoft.com/en-us/learn/certifications/azure-enterprise-data-analyst-associate/), I've collected some **useful links** for each of the **skills measured** below: 
+> Candidates for this exam should have advanced Power BI skills, including managing data repositories and data processing in the cloud and on-premises, along with using Power Query and Data Analysis Expressions (DAX). They should also be proficient in consuming data from Azure Synapse Analytics and should have experience querying relational databases, analyzing data by using Transact-SQL (T-SQL), and visualizing data.
+
+:wave: Given the lack of any courses or practice tests for the new [DP-500](https://docs.microsoft.com/en-us/learn/certifications/azure-enterprise-data-analyst-associate/), I've collected here some **useful links** for all **measured skills**: 
 
 * [Implement and manage a data analytics environment (25–30%)](#implement-and-manage-a-data-analytics-environment-2530)
 * [Query and transform data (20–25%)](#query-and-transform-data-2025)
